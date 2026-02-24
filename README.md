@@ -65,7 +65,7 @@ The collaboration ensures that the device design is continuously informed by rea
 
 ---
 
-## 🧪 Development & Validation Approach
+##  Development & Validation Approach
 
 Current activities include:
 
@@ -91,9 +91,9 @@ This repository presents a **sanitized portfolio representation** of an ongoing 
 
 ---
 
-## 🔮 Next Steps
+##  Next Steps
 
 * extended functional validation
 * continued design refinement
 * regulatory pathway progression
-* preparation for manufacturing scale-up
+* preparation for 1st clinical test
