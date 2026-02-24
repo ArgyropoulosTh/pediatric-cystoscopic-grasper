@@ -77,7 +77,7 @@ Current activities include:
 
 ---
 
-## 📊 Current Status
+##  Current Status
 
  Active development
  Iterative prototyping ongoing
